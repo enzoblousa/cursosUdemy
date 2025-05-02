@@ -41,6 +41,7 @@ public class BankAccount {
     public void withdraw(double amount){
         balance -= amount + 5.0;
     }
+    // Retorna uma representação textual da conta (útil para exibir informações ao usuário)
     public String toString(){
         return "Account " 
                + number
@@ -49,7 +50,5 @@ public class BankAccount {
                +", Balance: $ "
                + String.format("%.2f", balance);
     }
-
-    
 }
 

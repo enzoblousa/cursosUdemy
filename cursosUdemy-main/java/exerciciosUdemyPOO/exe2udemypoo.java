@@ -7,7 +7,6 @@ public class exe2udemypoo{
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
     Product product;
-    product = new Product();
     
     System.out.println("Enter product data");
     System.out.println("Name: ");
