@@ -1,24 +1,16 @@
-📚 cursosUdemy
-Repositório dedicado ao armazenamento e organização dos projetos desenvolvidos durante os cursos realizados na plataforma Udemy. Este espaço serve como um portfólio de aprendizado e prática das tecnologias abordadas nos cursos.
+# 📚 cursosUdemy
 
-📁 Estrutura do Repositório
-Atualmente, o repositório contém a seguinte estrutura:
+ Repositório dedicado ao armazenamento e organização dos projetos desenvolvidos em java durante os cursos realizados na plataforma Udemy do professor Nélio Alves.
+ 
+ Este espaço serve como um portfólio de aprendizado e prática das tecnologias abordadas nos cursos.
 
-🚀 Como Utilizar
-Clonar o Repositório:
+# 🛠️ Tecnologias Utilizadas
+- Linguagem de Programação: Java
+- Controle de Versão: Git
+- Plataforma de Hospedagem: GitHub
 
-Para projetos Java, recomenda-se o uso do IntelliJ IDEA ou Eclipse.
+# 👨‍💻 Autor: Enzo Spindola
 
-🛠️ Tecnologias Utilizadas
-Linguagem de Programação: Java
-
-Controle de Versão: Git
-
-Plataforma de Hospedagem: GitHub
-
-👨‍💻 Autor
-Nome: Enzo Spindola
-
-GitHub: @enzoblousa
-Email: enzoblousa@gmail.com
-Linkedin: https://www.linkedin.com/in/enzo-sp%C3%ADndola-1b747431a/ 
+- GitHub: [@enzoblousa](https://github.com/enzoblousa)
+- Email: [enzoblousa@gmail.com](enzoblousa@gmail.com)
+- Linkedin: [Meu perfil linkedin](https://www.linkedin.com/in/enzo-sp%C3%ADndola-1b747431a/)
